@@ -14,7 +14,7 @@
 
 ## 🌐 Live Preview
 
-👉 **Check it out here:** [https://yourdomain.com](https://indrajeetpisda.framer.website)
+👉 **Check it out here:** [Portfolio](https://indrajeetpisda.framer.website)
 
 ---
 
