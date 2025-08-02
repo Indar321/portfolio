@@ -1,37 +1,79 @@
-# 🎨 Indrajeet Pisda – Creative Portfolio
+<h1 align="center">🎨 Indrajeet Pisda – Creative Portfolio</h1>
 
-Welcome to my official portfolio repository. I’m **Indrajeet Pisda**, a creative designer, branding expert, and digital business developer. This portfolio is a curated collection of my professional work across UI/UX design, graphic design, branding, website design, and digital marketing.
+<p align="center">
+  A modern, animated, and responsive portfolio to showcase my work in branding, graphic design, UI/UX, and digital development.
+</p>
 
-Whether you’re a client looking for bold ideas, a recruiter exploring creative talent, or just curious about my process — this space is for you.
-
----
-
-## 🌐 Live Site
-
-👉 **Visit here**: [https://yourdomain.com](https://yourdomain.com)
-
----
-
-## 🧾 About This Portfolio
-
-This portfolio showcases not only the *what*, but also the *how* and *why* behind my creative process. It's built as a full-stack front-end project using modern web technologies to deliver an immersive, fast, and responsive user experience. The goal was to create a visually engaging yet minimal interface that reflects my creative identity.
+<p align="center">
+  <a href="https://behance.net/Indrajeetpisda"><img src="https://img.shields.io/badge/Behance-Portfolio-1769ff?logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://instagram.com/Nirvaan_01"><img src="https://img.shields.io/badge/Instagram-@Nirvaan_01-e1306c?logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://pin.it/4sREt8lI6"><img src="https://img.shields.io/badge/Pinterest-Nirvaan_01-bd081c?logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🌐 Live Preview
 
-| Technology      | Purpose                                |
-|-----------------|-----------------------------------------|
-| **React**       | Component-based UI                      |
-| **Tailwind CSS**| Utility-first styling                   |
-| **Framer Motion**| Page/Element transitions               |
-| **Vite**        | Fast frontend tooling                   |
-| **shadcn/ui**   | Pre-built elegant UI components         |
-| **Lucide Icons**| Iconography                             |
-| **Google Fonts**| Modern typography                       |
-| **FormSubmit**  | Contact form backend (no server needed) |
+👉 **Check it out here:** [https://yourdomain.com](https://yourdomain.com)
 
 ---
 
-## 📦 Project Structure
+## 👨‍🎨 About Me
+
+Hi, I’m **Indrajeet Pisda** – a passionate designer, founder of **Nirvaan** and **DigitalTrade.ai**, specializing in:
+
+- Branding & Identity
+- Graphic Design & Social Media Creatives
+- UI/UX & Website Design (Shopify, WordPress)
+- Motion Graphics & Video Editing
+- Creative Strategy & Digital Business Development
+
+I believe in designs that are functional, emotional, and scalable.
+
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React + Vite** – Modern frontend framework
+- 🎨 **Tailwind CSS** – Utility-first CSS
+- 💫 **Framer Motion** – Animations and transitions
+- 🧩 **shadcn/ui** – Reusable, elegant UI components
+- 🖼️ **Lucide Icons** – Icon system
+- 🌐 **FormSubmit / EmailJS** – Contact form handling
+- 🚀 **GitHub Pages / Vercel** – Deployment platforms
+
+---
+
+## 💼 Portfolio Sections
+
+| Section         | Features                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| **Home**        | Animated headline, intro CTA, scroll hint                               |
+| **About**       | Bio, design philosophy, tools & experience                              |
+| **Services**    | What I offer: design, branding, websites, editing                       |
+| **Portfolio**   | Project cards, hover effects, modal/case study link                     |
+| **Blog/Case Study** | Detailed breakdown of selected work                                |
+| **Testimonials**| Client reviews with transitions                                         |
+| **Contact**     | Form with validation + email + social icons                             |
+| **Dark Mode**   | Full light/dark theme toggle                                            |
+| **Responsive**  | Looks great on all devices                                              |
+
+---
+
+## 📷 Preview Screenshots
+
+> Add screenshots here using image URLs or GitHub-hosted images  
+> Example:  
+> ![Portfolio Preview](public/assets/screenshot-home.png)
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+
+
+## 🗂️ Project Structure
 
