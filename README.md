@@ -57,23 +57,4 @@ I believe in designs that are functional, emotional, and scalable.
 | **Dark Mode**   | Full light/dark theme toggle                                            |
 | **Responsive**  | Looks great on all devices                                              |
 
----
-
-## 📷 Preview Screenshots
-
-> Add screenshots here using image URLs or GitHub-hosted images  
-> Example:  
-> ![Portfolio Preview](public/assets/screenshot-home.png)
-
----
-
-## 📦 Installation
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-
-
-## 🗂️ Project Structure
 
